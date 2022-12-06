@@ -1,0 +1,47 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Mark's Digital Garden"
+theme = "hugo-digital-garden-theme"
+copyright = "Mark Tozzi ©"
+
+[params]
+  name = "Mark Tozzi"
+  description = "Some kind of furry adjacent weirdo living in Baltimore writing about tech"
+  initials = "MT"
+
+  [[params.social]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/mark-tozzi-3912272/"
+    icon = "fab fa-linkedin"
+
+  [[params.social]]
+    name = "Github"
+    link = "https://github.com/not-napoleon"
+    icon = "fab fa-github"
+
+  [[params.social]]
+    name = "Mastadon"
+    link = "https://tech.lgbt/@notNapoleon"
+    rel = "me"
+    icon = "fab fa-mastodon"
+
+
+[menu]
+  [[menu.main]]
+    name = "Digital Garden"
+    url = "/garden/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "Library"
+    url = "/library/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+
