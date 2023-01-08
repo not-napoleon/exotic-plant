@@ -15,6 +15,35 @@ and I tend to focus more on memory and reflection than on organization.  For
 2023, I'm trying to incorporate some more long form writing, and more
 formalized review processes throughout the year.  
 
+## My Favorite Spreads
+### Paid Time Off Tracker
+
+{{< imgproc "PTO tracker" Resize "700x" />}}
+
+### Addresses and Postcards Sent
+
+{{< imgproc "Addresses & Postcards" Resize "700x" />}}
+
+### Pen Pal Tracker
+
+{{< imgproc "Pen Pal Tracker" Resize "700x" />}}
+
+### Reading Log
+
+{{< imgproc "Reading Log" Resize "700x" />}}
+
+### Hiking Log
+
+{{< imgproc "Hiking Log" Resize "700x" />}}
+
+### Monthly Main Page
+
+{{< imgproc "Monthly" Resize "700x" />}}
+
+### Monthly Mood, Sleep, Symptoms and Self Care
+
+{{< imgproc "Mood and Trackers" Resize "700x" />}}
+
 ## How I Organize Goals
 I do an annual goal setting exercise, in which I review the previous year's
 goals and write an updated goals list for the new year. First, I set out a
