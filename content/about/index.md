@@ -15,4 +15,18 @@ When I'm not working, I enjoy hiking and
 RPGs, and the occasional video game. I read a lot of novels, mostly science
 fiction and fantasy.
 
+## N items of X type to get to know me
 
+### Video Games
+ - Stardew Valley
+ - Dwarf Fortress
+ - Civilization IV
+ - Nethack
+ - Slay the Spire
+ - Hades
+
+### Books
+ - _Gödel, Escher, Bach: An Eternal Golden Braid_ by Douglas Hofstadter
+ - _Sandman_ by Neil Gaiman
+ - _Pattern Recognition_ by William Gibson
+ - _Foreigner_ by C. J. Cherryh
