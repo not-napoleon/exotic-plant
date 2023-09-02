@@ -8,6 +8,7 @@ copyright = "Mark Tozzi ©"
   name = "Mark Tozzi"
   description = "Some kind of furry adjacent weirdo living in Baltimore working in tech"
   initials = "MT"
+  darkModeDefault = "dark"
 
   [[params.social]]
     name = "LinkedIn"
