@@ -2,14 +2,14 @@
 math: true
 title: "Sums of Cubes"
 date: 2023-09-02
-lastmod: 2023-09-02
+lastmod: 2023-12-23
 draft: false
 garden_tags: [ ]
 summary: "A proof by induction of a well known equality"
 status: "evergreen"
 ---
 
-It is well known that the sum of the first N integers, squared is equal to 
+It is well known that the sum of the first N integers, squared, is equal to 
 the sum of the first N cubes, and there are [many proofs](https://en.wikipedia.org/wiki/Squared_triangular_number)
 of this already. The geometric proof is both famous and beautiful.  I,
 however, am a programmer, and as such, my first instinct is to prove by
@@ -38,8 +38,8 @@ and multiply to get
 
 $$ \lparen \sum_{i=1}^n i^3 \rparen + (n+1)^3 = \lparen \sum_{i=1}^n i \rparen ^2 + \lparen 2n + 2 \rparen \lparen \sum_{i=1}^n i \rparen + n^2 + 2n + 1$$
 
-Next, apply two identities; The triangular number identity says that
-$$ \sum_{i=1}^n = n(n+1) \over 2 $$ 
+Next, use the triangular number identity to replace the sum in the second term
+$$ \sum_{i=1}^n = {n(n+1) \over 2} $$ 
 
 And factor to get
 

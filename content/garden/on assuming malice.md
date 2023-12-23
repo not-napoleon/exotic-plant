@@ -1,7 +1,7 @@
 ---
 title: "On the Assumption of Malice"
 date: 2022-12-11
-lastmod: 2022-12-11
+lastmod: 2023-12-23
 draft: false
 garden_tags: [ ]
 summary: " "
@@ -33,8 +33,8 @@ whistle" is plausible deniability of intent.
 This is where "assume" really has to come under the microscope. The first time
 someone does something offensive and pleads ignorance, maybe it is reasonable
 to grant them some benefit of the doubt. But when a pattern develops over
-time, the same excuses over and over, then it is no longer an assumption of
-malice.  
+time, the same excuses over and over, then it is no longer an assumption, but
+rather evidence of malice.  
 
 ## Ignorance is not innocence
 Often, the response to being told "this thing hurt me" is to plead ignorance.

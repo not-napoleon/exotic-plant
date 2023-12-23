@@ -1,7 +1,7 @@
 ---
 title: "Why Are We Bad at Software Development"
 date: 2023-09-05
-lastmod: 2023-09-05
+lastmod: 2023-12-23
 draft: true
 garden_tags: [ ]
 summary: " "
@@ -34,9 +34,9 @@ who do care don't have any power, because we don't have any organization.
 
 How do we fix it? I haven't a clue. I think unions might be a good first step,
 but that's a hard sell for a profession that skews very libertarian.
-Regulation might help too, but I don't really think the US at least as anyone
-in power who understands the problem enough to even start. Hopefully, that
-gets better over time, but I wouldn't expect it to quickly.
+Regulation might help too, but I don't really think there is anyone
+in power who understands the problem enough to even start, in the US at least.
+Hopefully, that gets better over time, but I wouldn't expect it to quickly.
 
 A lot of thinkers who defined this generation have a decidedly libertarian
 bent, like RMS. The GPL in particular is emphatic that any restrictions on use
