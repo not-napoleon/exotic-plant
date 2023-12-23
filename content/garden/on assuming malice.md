@@ -1,5 +1,5 @@
 ---
-title: "On the assumption of malice"
+title: "On the Assumption of Malice"
 date: 2022-12-11
 lastmod: 2022-12-11
 draft: false

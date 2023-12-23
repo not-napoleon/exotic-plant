@@ -41,11 +41,11 @@ $$ \lparen \sum_{i=1}^n i^3 \rparen + (n+1)^3 = \lparen \sum_{i=1}^n i \rparen ^
 Next, apply two identities; The triangular number identity says that
 $$ \sum_{i=1}^n = n(n+1) \over 2 $$ 
 
-and factor to get
+And factor to get
 
 $$ n^2 + 2n + 1  = (n+1)^2 $$ 
 
-rewriting again to get
+Rewriting again to get
 
 $$ \lparen \sum_{i=1}^n i^3 \rparen + (n+1)^3 = \lparen \sum_{i=1}^n i \rparen ^2 + \lparen 2n + 2 \rparen \lparen {n(n+1) \over 2} \rparen + (n+1)^2 $$
 

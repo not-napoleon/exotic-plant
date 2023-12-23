@@ -1,7 +1,7 @@
 ---
 title: "Pen Plotter"
 date: 2022-12-17
-draft: false
+draft: true
 project_tags: [ ]
 status: "seedling"
 summary: "Procedurally generated graphics for drawing with a pen plotter"
