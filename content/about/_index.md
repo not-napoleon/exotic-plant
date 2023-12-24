@@ -16,3 +16,5 @@ RPGs, and the occasional video game. I read a lot of novels, mostly science
 fiction and fantasy.
 
 You can read about the various [tools I use]({{< ref "/garden/tools" >}})
+
+Find me on [Social Media]({{< ref "/about/linktree" >}})
