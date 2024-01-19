@@ -6,7 +6,7 @@ copyright = "Mark Tozzi ©"
 
 [params]
   name = "Mark Tozzi"
-  description = "Some kind of furry adjacent weirdo living in Baltimore working in tech"
+  description = "Some kind of furry adjacent weirdo living in Baltimore and working in tech"
   initials = "MT"
   darkModeDefault = "dark"
 

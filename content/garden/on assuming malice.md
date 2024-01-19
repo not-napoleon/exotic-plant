@@ -42,7 +42,8 @@ Often, the response to being told "this thing hurt me" is to plead ignorance.
 that the wounded party accept that your ignorance was not malicious. But at
 some point, ignorance itself becomes malice. To remain ignorant of the ways in
 which your decisions impact those around you is not, and cannot be, a free
-pass for bad behavior.
+pass for bad behavior.  This is especially true when there is also an imbalance
+of power. Leadership requires knowing the impact of decsions on those one leads.
 
 "Don't assume malice" culture needs to be bi-directional. The person being
 given the benefit of the doubt needs to acknowledge that they have a harmful
@@ -57,8 +58,8 @@ explain to the person who hurt them why it hurt and how they trust that it
 wasn't on purpose, and generally make the person who hurt them feel better
 about the situation.  That seems wrong.
 
-We see a lot of "I was hurt, then I reminded myself 'don't assume malice' and
-reached out to try to understand..."  We rarely see "You seemed upset about what
+I see a lot of "I was hurt, then I reminded myself 'don't assume malice' and
+reached out to try to understand..."; I rarely see "You seemed upset about what
 I said, but I didn't assume malice and am reaching out to see why you're upset."
 
 ## Outcome matter as much as intentions

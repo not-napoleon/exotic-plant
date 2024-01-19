@@ -66,7 +66,7 @@ rather than just on the `Double.equals()` method.
 
 Square root and pow also behave inconsistently with regard to negative zero.
 The [docs](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html#sqrt-double-)
-specify that `Math.sqrt(-0d) == 0.0`, but `pow(-0d, 0.5) == 0.0`.  This may be
+specify that `Math.sqrt(-0d) == -0.0`, but `pow(-0d, 0.5) == 0.0`.  This may be
 documented in the tangled mess of edge cases that the 
 [pow documentation](https://docs.oracle.com/javase/8/docs/api/java/lang/Math.html#pow-double-double-)
 attempts to explain, but I still find the inconsistency surprising. As far as I
