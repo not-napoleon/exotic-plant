@@ -1,4 +1,4 @@
-baseURL = 'http://garden.marktozzi.com/'
+baseURL = 'https://garden.marktozzi.com/'
 languageCode = 'en-us'
 title = "Mark's Digital Garden"
 theme = "hugo-digital-garden-theme"
