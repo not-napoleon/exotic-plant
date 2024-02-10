@@ -24,6 +24,12 @@ status: "seeding"
   I wrote about finding a bug in the Java date formatting logic.  I'm pretty
   proud of the bug, and the write-up
 
+# Resources
+- [Wizard Zines](https://wizardzines.com/) by Julia Evans
+    - Easy to understand resources for a lot of computing fundamentals. Great illustrations.
+
 # Friends Sites
 - [Extinct Flightless Art Collective](http://extinct-flightless.blogspot.com/)
 - [The Doctor's Blog](https://drwho.virtadpt.net/)
+- [Joanna Barnum's Art](https://www.joannabarnum.com/)
+    - Dark fantasy & gothy water colors
