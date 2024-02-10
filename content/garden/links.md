@@ -25,5 +25,5 @@ status: "seeding"
   proud of the bug, and the write-up
 
 # Friends Sites
+- [Extinct Flightless Art Collective](http://extinct-flightless.blogspot.com/)
 - [The Doctor's Blog](https://drwho.virtadpt.net/)
-
