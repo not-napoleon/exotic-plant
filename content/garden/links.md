@@ -14,6 +14,8 @@ status: "seeding"
 - [Extinct Flightless Art Collective](http://extinct-flightless.blogspot.com/)
 - [Joanna Barnum's Art](https://www.joannabarnum.com/)
     - Dark fantasy & gothy water colors
+- [Mountain of Ink](https://mountainofink.com/)
+    - Fantastic reivews of fountain pen ink
 - [Metropolitan Museum Open Access](https://www.metmuseum.org/art/collection/search?showOnly=openAccess)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
 
