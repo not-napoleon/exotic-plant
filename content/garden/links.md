@@ -1,11 +1,11 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-02-12
+lastmod: 2024-02-22
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
-status: "seeding"
+status: "growing"
 ---
 
 # Art Stuff
@@ -19,13 +19,16 @@ status: "seeding"
 - [Metropolitan Museum Open Access](https://www.metmuseum.org/art/collection/search?showOnly=openAccess)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
 
+# Covid Stuff
+- [CDC Wastewater Data](https://www.cdc.gov/nwss/rv/COVID19-statetrend.html)
+    - Probably the best we have right now for knowing Covid risk levels
+- [Biobot Wastewater Data](https://biobot.io/data/)
+
 # Culture Stuff
 - [The Al Capone Theory of Sexual
   Harassment](https://hypatia.ca/2017/07/18/the-al-capone-theory-of-sexual-harassment/)
   by Valerie Aurora and Leigh Honeywell 
 - [Ballotpedia](https://ballotpedia.org/Main_Page) Vote!
-- [CDC Wastewater Data](https://www.cdc.gov/nwss/rv/COVID19-statetrend.html)
-    - Probably the best we have right now for knowing Covid risk levels
 - [Little Free Library](https://littlefreelibrary.org/)
     - These are all over Baltimore, and I love them!
 - [The Safezone Project](https://thesafezoneproject.com/)
