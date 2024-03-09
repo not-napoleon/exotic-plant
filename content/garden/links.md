@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-02-22
+lastmod: 2024-03-09
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -18,6 +18,12 @@ status: "growing"
     - Fantastic reivews of fountain pen ink
 - [Metropolitan Museum Open Access](https://www.metmuseum.org/art/collection/search?showOnly=openAccess)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
+
+# Balitimore Stuff
+- [Baltimore Open Data](https://data.baltimorecity.gov/)
+- [Baltimore Flowering Trees Map](https://baltimore.maps.arcgis.com/apps/dashboards/96865b6cb52f4a7aaa317607f7cef802)
+- [Balitmore Banner](https://www.thebaltimorebanner.com/)
+    - Non-profit-ish local news
 
 # Covid Stuff
 - [CDC Wastewater Data](https://www.cdc.gov/nwss/rv/COVID19-statetrend.html)
@@ -62,6 +68,7 @@ status: "growing"
 - [Permacomputing](https://permacomputing.net/)
     - There's some good ideas here. Not sure it's totally on the right track, but worth thinking about.
 - [The Doctor's Blog](https://drwho.virtadpt.net/)
+- [John Colagioia's Blog](https://john.colagioia.net/blog/)
 - [uthash](https://troydhanson.github.io/uthash/)
     - C data structures written in pre-processor directives.
 - [TOSDR](https://tosdr.org/)
