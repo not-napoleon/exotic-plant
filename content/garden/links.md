@@ -11,6 +11,8 @@ status: "growing"
 # Art Stuff
 - [Pixel Art Paletts](https://lospec.com/)
     - Choices are hard, let someone else pick your colors.
+- [TS Dower](https://tsdower.com/)
+    - Alt-process photography and other obsolete technology as art
 - [Extinct Flightless Art Collective](http://extinct-flightless.blogspot.com/)
 - [Joanna Barnum's Art](https://www.joannabarnum.com/)
     - Dark fantasy & gothy water colors
