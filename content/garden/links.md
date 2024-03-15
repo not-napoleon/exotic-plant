@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-03-09
+lastmod: 2024-03-15
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -26,6 +26,7 @@ status: "growing"
 - [Baltimore Flowering Trees Map](https://baltimore.maps.arcgis.com/apps/dashboards/96865b6cb52f4a7aaa317607f7cef802)
 - [Balitmore Banner](https://www.thebaltimorebanner.com/)
     - Non-profit-ish local news
+- [Bolton Hill Community Association](https://boltonhillmd.org/)
 
 # Covid Stuff
 - [CDC Wastewater Data](https://www.cdc.gov/nwss/rv/COVID19-statetrend.html)
