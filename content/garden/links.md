@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-03-15
+lastmod: 2024-05-31
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -44,6 +44,11 @@ status: "growing"
     - Resources for learning about and supporting the LGBTQ+ community
 - [Trans Travel Guide](https://travelwhiletrans.com/#/)
 - [Trans Legislative Risk map](https://www.erininthemorning.com/p/anti-trans-legislative-risk-assessment)
+- [Wealth, shown to scale](https://mkorostoff.github.io/1-pixel-wealth/?v=3)
+    - This is one of the most powerful data visualizations I've ever seen.  I encourage everyone to scroll through the whole thing.
+
+# Journaling Stuff
+- [The American Diary Project](https://americandiaryproject.com/)
 
 # Postcard Stuff
 - [Postcrossing](https://www.postcrossing.com/)
@@ -76,6 +81,7 @@ status: "growing"
     - C data structures written in pre-processor directives.
 - [TOSDR](https://tosdr.org/)
     - Summaries and ratings of terms of service agreements
+- [Maze Algorithms Visualized](https://www.jamisbuck.org/mazes/)
 
 ## Software Tools
 - [Kitty terminal](https://sw.kovidgoyal.net/kitty/)
@@ -83,6 +89,7 @@ status: "growing"
 - [Firefox Browser](https://www.mozilla.org/en-US/firefox/new/)
 - [ObsidianMD](https://obsidian.md/) Markdown based note taking app
 - [LunarVim](https://www.lunarvim.org/) (an IDE-like [neovim](https://neovim.io/) distribution)
+    - Note - Lunar Vim is no longer being maintained. I'll update this list with whatever I migrate to, when I do.
 
 # Web Comics!
 - [XKCD](https://xkcd.com/) If you found my page, but somehow don't know about XKCD, I am very confused.
