@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-05-31
+lastmod: 2024-06-06
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -20,6 +20,7 @@ status: "growing"
     - Fantastic reivews of fountain pen ink
 - [Metropolitan Museum Open Access](https://www.metmuseum.org/art/collection/search?showOnly=openAccess)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
+- [Classic Camera Database](https://www.classiccameradatabase.com/)
 
 # Balitimore Stuff
 - [Baltimore Open Data](https://data.baltimorecity.gov/)
@@ -62,6 +63,8 @@ status: "growing"
 - [Timezone-Sensitive
   Rounding](https://davecturner.github.io/2019/04/14/timezone-rounding.html) by
   David Turner 
+- [Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time) 
+  and [More Falsehoods Programmers Believe About Time](https://infiniteundo.com/post/25509354022/more-falsehoods-programmers-believe-about-time)
 - [A Brief History & Ethos of the Digital
   Garden](https://maggieappleton.com/garden-history) by Maggie Appleton
   - Most of the inspiration for the design and layout of this site comes from
@@ -99,4 +102,6 @@ status: "growing"
 - [Questionable Content](https://questionablecontent.net/)
 - [Schlock Mercenary](https://www.schlockmercenary.com/) (Finished, but worth reading)
 - [EGS](https://www.egscomics.com/)
+- [Nietzsche Family Circus](https://www.nietzschefamilycircus.com/) 
+  (they're all amazing, but [this might be my favorite](https://www.nietzschefamilycircus.com/perm.php?c=90&q=243))
 
