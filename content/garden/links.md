@@ -24,7 +24,8 @@ status: "growing"
 
 # Balitimore Stuff
 - [Baltimore Open Data](https://data.baltimorecity.gov/)
-- [Baltimore Flowering Trees Map](https://baltimore.maps.arcgis.com/apps/dashboards/96865b6cb52f4a7aaa317607f7cef802)
+- [Baltimore Trees](https://www.treebaltimore.org/blog)
+  - including the [Baltimore Flowering Trees Map](https://baltimore.maps.arcgis.com/apps/dashboards/96865b6cb52f4a7aaa317607f7cef802)
 - [Balitmore Banner](https://www.thebaltimorebanner.com/)
     - Non-profit-ish local news
 - [Bolton Hill Community Association](https://boltonhillmd.org/)
