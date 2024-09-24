@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-06-06
+lastmod: 2024-09-24
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -21,6 +21,8 @@ status: "growing"
 - [Metropolitan Museum Open Access](https://www.metmuseum.org/art/collection/search?showOnly=openAccess)
 - [Smithsonian Open Access](https://www.si.edu/openaccess)
 - [Classic Camera Database](https://www.classiccameradatabase.com/)
+- [Ben Horne's Photography](https://www.benhorne.com/)
+    - One of my absolute favorite photographers
 
 # Balitimore Stuff
 - [Baltimore Open Data](https://data.baltimorecity.gov/)
@@ -28,6 +30,8 @@ status: "growing"
   - including the [Baltimore Flowering Trees Map](https://baltimore.maps.arcgis.com/apps/dashboards/96865b6cb52f4a7aaa317607f7cef802)
 - [Balitmore Banner](https://www.thebaltimorebanner.com/)
     - Non-profit-ish local news
+- [Baltimore Camera Club](https://www.baltimorecameraclub.org/Default.aspx)
+- [Baltimore Rock Opera Society](https://www.baltimorerockopera.org/)
 - [Bolton Hill Community Association](https://boltonhillmd.org/)
 
 # Covid Stuff
@@ -40,6 +44,8 @@ status: "growing"
   Harassment](https://hypatia.ca/2017/07/18/the-al-capone-theory-of-sexual-harassment/)
   by Valerie Aurora and Leigh Honeywell 
 - [Ballotpedia](https://ballotpedia.org/Main_Page) Vote!
+- [The Crisp Packet Project](https://crisppacketproject.com/)
+    - At home recycling of chips bags into suvrival blankets and such.
 - [Little Free Library](https://littlefreelibrary.org/)
     - These are all over Baltimore, and I love them!
 - [The Safezone Project](https://thesafezoneproject.com/)
