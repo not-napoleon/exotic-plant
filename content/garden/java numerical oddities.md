@@ -1,7 +1,7 @@
 ---
 title: "Java Numerical Oddities"
 date: 2023-12-24
-lastmod: 2023-12-24
+lastmod: 2025-12-12
 draft: false
 garden_tags: [ ]
 summary: "A few things I have noticed while working in java"
@@ -72,6 +72,41 @@ documented in the tangled mess of edge cases that the
 attempts to explain, but I still find the inconsistency surprising. As far as I
 am aware, this is the only value `x` such that `sqrt(x) != pow(x, 0.5)` in
 java.
+
+# Non-Arabic Numerals
+Credit to my colleague Parker for finding this one.  He filed an
+[Elasticsearch Bug](https://github.com/elastic/elasticsearch/issues/133490)
+about this, although it's a behavior in java.
+
+`Long` and `Double` have different methods for parsing strings to numbers,
+unsurprisingly.  What is somwhat surprising however is that they treat
+non-(Western)Arabic numerals differently.  `Long.parseLong(String)` (and
+`Long.valueOf(String)`, which is documented as having the same behavior)
+seems to handle Unicode numerals that are not Western Arabic just fine.  I
+tested it with an [Eastern
+Arabic](https://en.wikipedia.org/wiki/Eastern_Arabic_numerals) number and a
+[Javanese](https://en.wikipedia.org/wiki/Javanese_numerals) number.  I didn't
+delve too deeply into these writing systems, and it's possible a native
+speaker (writer?) could find places where `Long.parseLong()` doesn't behave
+corectly, but at least for trivial cases it works.
+
+Not so for `Double.parseDouble()`.  In the case of Doubles, any writing
+system other than Western Arabic Numerals results in a number format
+exception.  I assume this is because doubles are just harder to write
+(indeed, the
+[documentation](https://docs.oracle.com/en//java/javase/16/docs/api/java.base/java/lang/Double.html#valueOf(java.lang.String))
+defines an entire grammar for specifying a double).  The same document goes
+on to recommend the use of `NumberFormat` for interpreting "localized string
+representations", and while I didn't test that, I have no reason to believe
+it wouldn't work as advertised.
+
+Like the negative zero behavior, I don't think this is wrong as such.
+`NumberFormat` is a sensible way to handle localization, and for better or
+worse Western Arabic numerals are the standard today.  Should longs provide a
+level of leniency that isn't possible for doubles? I don't know.  It's not an
+obviously wrong choice (unlike `IntValue`, :shakes fist at the sky:), but it
+is a surprising choice.  And that's what I'm collecting here, things that
+surprised me about numbers in Java.
 
 [^1]: The max and min value constants are actually primitive longs, so this
     doesn't compile without boxing them.  I've left that out for ease of reading.
