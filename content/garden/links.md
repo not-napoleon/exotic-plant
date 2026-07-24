@@ -1,7 +1,7 @@
 ---
 title: "Links"
 date: 2024-01-20
-lastmod: 2024-09-24
+lastmod: 2026-07-23
 draft: false
 garden_tags: [ ]
 summary: "Human curated list of resources I find interesting"
@@ -52,7 +52,7 @@ status: "growing"
     - Resources for learning about and supporting the LGBTQ+ community
 - [Trans Travel Guide](https://travelwhiletrans.com/#/)
 - [Trans Legislative Risk map](https://www.erininthemorning.com/p/anti-trans-legislative-risk-assessment)
-- [Wealth, shown to scale](https://mkorostoff.github.io/1-pixel-wealth/?v=3)
+- [Wealth, shown to scale](https://wealth.ronnycoste.com/)
     - This is one of the most powerful data visualizations I've ever seen.  I encourage everyone to scroll through the whole thing.
 
 # Journaling Stuff
